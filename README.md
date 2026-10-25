@@ -1,99 +1,104 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left">👋 Hello there! I'm Amin Adel</h1>
+<h3 align="left">📊 Junior Data Analyst | Excel • Power BI • SQL</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower"><img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" /></a>
-  <a href="https://jacobcolvin.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
-  <a href="https://stackoverflow.com/users/4868262"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow"></a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube"></a>
-  <a href="https://github.com/MacroPower?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github"></a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
+  I turn raw data into meaningful insights through data cleaning,
+  analysis, and interactive dashboards to support better business decisions.
 </p>
 
-<a href="#macropower-title"><img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" /></a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aminadelabdo125-ux&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/aminadelabdo125-ux?tab=followers">
+    <img src="https://img.shields.io/github/followers/aminadelabdo125-ux?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
+  </a>
+</p>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+---
 
-<br>
+<h2 align="left">👨‍💻 About Me</h2>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+- 📊 I'm a Junior Data Analyst passionate about turning data into insights.
+- 📑 I use Excel for data cleaning, analysis, and reporting.
+- 📈 I build interactive dashboards using Power BI and DAX.
+- 🗄️ I use SQL to query, join, and analyze data.
+- 💡 I focus on KPIs, sales performance, and business insights.
+- 🚀 I enjoy solving problems and transforming data into actionable insights.
+- 🤝 Connect with me on <a href="YOUR_LINKEDIN_URL">LinkedIn</a>.
 
-> Tools, languages, and other things that I like to work with.
+---
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/go-original.svg" width="48" height="48" alt="Golang" /></a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/kcl-icon-color.svg" width="48" height="48" alt="KCL" /></a>
-      <br>KCL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /></a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/dagger.svg" width="48" height="48" alt="Dagger" /></a>
-      <br>Dagger
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/nixos-original.svg" width="48" height="48" alt="Nix" /></a>
-      <br>Nix
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/tmux.svg" width="48" height="48" alt="Tmux" /></a>
-      <br>tmux
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/neovim-original.svg" width="48" height="48" alt="Neovim" /></a>
-      <br>nvim
-    </td>
-  </tr>
-</table>
+<h2 align="left">🛠️ Skills & Tools</h2>
 
-<h2 align="left">Coding Activity</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+### 📊 Data Analysis
+- Data Cleaning & Transformation
+- Exploratory Data Analysis
+- KPI Development
+- Sales & Profit Analysis
+- Data Visualization
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+### 📈 Power BI
+- Interactive Dashboards
+- Data Modeling
+- DAX Measures
+- Time Intelligence
+- Year-over-Year (YoY) Analysis
 
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
+### 🗄️ SQL
+- SELECT, WHERE, ORDER BY
+- Aggregate Functions & GROUP BY
+- JOINs & Subqueries
+- CASE Statements
+- Common Table Expressions (CTEs)
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+### 📑 Excel
+- PivotTables & PivotCharts
+- Lookup Functions
+- Data Cleaning
+- Conditional Formatting
+- KPI Reporting
 
-<!-- links -->
+---
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+<h2 align="left">📂 Featured Projects</h2>
+
+### 📊 Sales Analysis Dashboard — Power BI
+An interactive dashboard to analyze sales trends, product performance, quantities, and profitability.
+
+**Tools:** Power BI, DAX
+
+### 🛒 Superstore Sales Analysis
+Analyzed sales, profit, customer segments, product categories, and regional performance to identify business insights.
+
+**Tools:** Excel, Power BI
+
+### 🗄️ SQL Data Analysis
+SQL projects covering data retrieval, filtering, JOINs, aggregations, and business-oriented queries.
+
+**Tools:** SQL Server, T-SQL
+
+<p align="left">
+  <a href="https://github.com/aminadelabdo125-ux?tab=repositories">
+    <img src="https://img.shields.io/badge/View_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View My Projects" />
+  </a>
+</p>
+
+---
+
+<h2 align="left">📫 Connect With Me</h2>
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/aminadelabdo125-ux">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="left">Thanks for visiting my profile! 🚀</p>
